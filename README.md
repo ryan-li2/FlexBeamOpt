@@ -1,4 +1,4 @@
-# FlexBeamOpt
+# FlexBeamOpt SATCOM Data
 
 The system model used for this analysis considers the forward downlink of a single, multi-beam GEO HTS positioned over the Australasia region. The payload architecture is representative of a phased-array fed reflector (PAFR) antenna system operating in the Ka-Band utilising a digital bent- pipe transponder with digital channelizer and beamformer with each beams position and beam width being independently configurable within the scan angle of the antenna. The simultaneous beam count and electronic scan range of a PAFR is constrained by the feed array size and spacing, radio frequency manifolding, amplitude and phase control and the digital beamforming design. The system parameters as defined in Table 1 have been selected to reflect characteristics of a typical HTS while allowing for the flexibility afforded to a PAFR antenna system within realistic design constraints.
 <img width="574" alt="Screenshot 2023-09-12 at 9 49 31 pm" src="https://github.com/ryan-li2/FlexBeamOpt/assets/48229366/4114a2c5-7140-4284-b9be-ef48f5bfe12d">
